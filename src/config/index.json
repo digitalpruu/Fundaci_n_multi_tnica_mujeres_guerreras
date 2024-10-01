@@ -53,18 +53,18 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 310 2167533",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "mujeresguerrerass01@outlook.es",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        "name": "Facebook",
+        "description": "AM Mujeres Guerreras",
+        "icon": "/assets/images/facebook.jpg"
       },
       {
         "name": "Facebook",
